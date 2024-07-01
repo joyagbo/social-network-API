@@ -7,7 +7,7 @@ const router = express.Router();
 
 router.post("/create-post", [auth, [check('content', 'Content is required').not().isEmpty()]], createPost);
 router.get("/all-posts", auth, getAllPosts)
-router.get("/posts/:postId", auth, getPostById)
+router.get("/get-a-post/:postId", auth, getPostById)
 router.put("/update-post/:postId", auth, updatePost)
 router.delete("/delete-post/postId", auth, deletePost)
 
