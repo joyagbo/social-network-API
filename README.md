@@ -4,16 +4,7 @@
 
 - [OVERVIEW](#overview)
 - [Technologies Used](#technology-used)
-<!-- - [Important Information](#Important-information) -->
-- [Security Measures](#security-measures)
-- [USER ENDPOINT](#user-endpoint)
-- [ADMIN ENDPOINTS](#admin-endpoint)
-- [JOB ENDPOINTS](#job-endpoints)
-- [PROVIDER ENDPOINTS](#provider-endpoints)
-- [PAYMENT ENDPOINTS](#payment-endpoints)
-- [JOB SEEKER ENDPOINTS](#job-seeker-endpoints)
-- [SETTING ENDPOINT](#setting-endpoint)
-- [RATING ENDPOINT](#rating-endpoint)
+- [ENDPOINTS](#endpoint)
 
 ### OVERVIEW
 
